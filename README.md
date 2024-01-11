@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Frontend Frameworks**
 
-- 💬 Ask me about **Frontend | Python**
+- 💬 Ask me about **Web Development** | **CSS Frameworks | Python**
 
 - 📫 How to reach me **sadham17012003@gmail.com**
 
