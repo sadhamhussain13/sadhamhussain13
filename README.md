@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadhamhussain13" alt="sadhamhussain13" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Frameworks**
+- 🌱 I’m currently learning **Backend Frameworks**
 
 - 💬 Ask me about **Web Development** | **CSS Frameworks | Python**
 
